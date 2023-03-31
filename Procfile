@@ -1,3 +1,3 @@
 worker: python bot.py
 
-web: gunicorn myproject.bot.py --log-file -
+web: gunicorn telegrambottest371941.bot.py --log-file -
